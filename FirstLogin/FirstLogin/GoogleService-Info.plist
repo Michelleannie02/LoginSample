@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>175079208751-kdr96aqso2pfvacpuq5mi0gi4c0gp1fb.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.175079208751-kdr96aqso2pfvacpuq5mi0gi4c0gp1fb</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDb9S1kKGh3-kqXP3b6IUVYbSxmhsYKJgs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>175079208751</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.MinaRam.FirstLogin</string>
+	<key>PROJECT_ID</key>
+	<string>firstlogin-ffab1</string>
+	<key>STORAGE_BUCKET</key>
+	<string>firstlogin-ffab1.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:175079208751:ios:979fb688762697c1f253da</string>
+	<key>DATABASE_URL</key>
+	<string>https://firstlogin-ffab1.firebaseio.com</string>
+</dict>
+</plist>
